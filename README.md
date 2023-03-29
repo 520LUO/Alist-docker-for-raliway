@@ -51,9 +51,9 @@ Fork到自己的仓库，然后在raliway中使用Github仓库部署，找到For
 >   "DB_PORT": "3306", 
 >   "DB_USER": "账号", 
 >   "DB_PASS": "密码", 
->   "DB_NAME": "数据名称", 
+>   "DB_NAME": "数据库名称", 
 >   "DB_TABLE_PREFIX": "alist_", 
->   "DB_SSL_MODE": "true" 
+>   "DB_SSL_MODE": "false" 
 > ```
 
 
