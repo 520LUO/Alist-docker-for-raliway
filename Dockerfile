@@ -1,6 +1,5 @@
-FROM xhofe/alist:latest
-LABEL MAINTAINER="i@nn.ci"
-WORKDIR /opt/alist/
+FROM xhofe/alist-aria2:latest
+WORKDIR /opt/alist
 
 EXPOSE 5244
 
